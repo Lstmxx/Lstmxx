@@ -12,17 +12,27 @@
 
 ### 技术栈
 
-通用
+**语言**
 
-[![My Skills](https://skillicons.dev/icons?i=git,jenkins,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python)](https://skillicons.dev)
 
-前端
+**前端**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,vue,react,vite,pnpm,electron,tailwind,scss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-后端
+[![My Skills](https://skillicons.dev/icons?i=vue,react,electron,nextjs,antdesign)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,nestjs,docker,nginx,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,scss,less)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=pnpm,npm,vite,webpack)](https://skillicons.dev)
+
+**后端**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,mysql,redis)](https://skillicons.dev)
+
+**通用**
+
+[![My Skills](https://skillicons.dev/icons?i=git,jenkins,gitlab,docker,nginx)](https://skillicons.dev)
 
 ### 其他
 
